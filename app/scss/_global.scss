@@ -41,6 +41,7 @@ body {
 }
 }
 .title {
+    @include f700;
     color: $bg;
     font-weight: 700;
     text-align: center;
